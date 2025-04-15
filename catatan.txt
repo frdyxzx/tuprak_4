@@ -1,1 +1,2 @@
 "Ini commit ke-1" 
+"comit 2" 
