@@ -3,3 +3,4 @@
 "comit ke 3" 
 "Ini commit ke-4" 
 "ini commit ke 5" 
+"ini commit ke 6" 
